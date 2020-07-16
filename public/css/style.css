@@ -14,7 +14,7 @@ body{
 }
 
 footer{
-    color: #888888;
+    color: black;
     /* border-top: 2px solid #eeeeee; */
     
     margin-top: 15px;
@@ -33,7 +33,7 @@ header h1{
 }
 
 header a{
-    color: #888888;
+    color:black;
     margin: 15px;
     text-decoration: none;
     font-size: medium;
@@ -66,4 +66,8 @@ button:hover{
     padding: 8px;
     margin: 3px;
     border-radius: 10px;
+}
+
+p{
+    color: black;
 }
